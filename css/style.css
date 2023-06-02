@@ -36,7 +36,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-image: url(/images/landing.jpg);
+    background-image: url(./images/landing.jpg);
     background-position: center;
     background-size: cover;
     filter:
@@ -378,7 +378,7 @@ body {
     width: 100%;
     height: 600px;
     display: flex;
-    background-image: url(/images/design-features.jpg);
+    background-image: url(./images/design-features.jpg);
     background-repeat: no-repeat;
     /*background-position: center;
     */
@@ -921,7 +921,7 @@ video {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/images/stats.png);
+    background-image: url(./images/stats.png);
     background-attachment: fixed;
     background-size: cover;
     position: relative;
@@ -1168,7 +1168,7 @@ video {
 .box-p {
     width: 100%;
     height: fit-content;
-    background-image: url(/images/quote.jpg);
+    background-image: url(./images/quote.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1387,7 +1387,7 @@ video {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(./images/subscribe.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -1635,7 +1635,7 @@ video {
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    background-image: url(/images/subscribe.jpg);
+    background-image: url(./images/subscribe.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
